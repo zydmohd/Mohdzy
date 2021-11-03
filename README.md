@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohdzy
 - 👀 I’m interested in Data Anlysis
-- 🌱 I’m currently learning Programing 
 - 💞️ I’m looking to collaborate on Data
 - 📫 How to reach me ...
 zydmod@gmail.com
